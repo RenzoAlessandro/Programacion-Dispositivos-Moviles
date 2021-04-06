@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SQLite</string>
+
+    <string name="txt_IngreseNombre">Ingrese Nombres</string>
+    <string name="txt_IngreseEmail">Ingrese Apellidos</string>
+    <string name="txt_IngreseEdad">Ingrese Edad</string>
+
+    <string name="txt_Nombre">Nombres</string>
+    <string name="txt_Email">Apellidos</string>
+    <string name="txt_ID">ID</string>
+    <string name="txt_EDAD">Edad</string>
+
+    <string name="bt_Agregar">Agregar</string>
+    <string name="bt_Ver">Ver</string>
+    <string name="bt_Editar">Editar</string>
+    <string name="bt_Borra">Borrar</string>
+
+</resources>

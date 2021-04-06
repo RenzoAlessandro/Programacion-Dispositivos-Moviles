@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Mi Catalogo</string>
+    <string name="titulo">CATÁLOGO DE ZAPATILLAS</string>
+    <string name="DescripcionTalla">ELIGE TU TALLA</string>
+    <string name="Talla1">M 3.5 / W 5</string>
+    <string name="Talla2">M 6.5 / W 8</string>
+    <string name="Talla3">M 10.5 / W 12</string>
+    <string name="DescripcionDescuento1">NO APLICA DESCUENTO</string>
+    <string name="DescripcionDescuento2">SOBRE ESTE ARTICULO NO APLICA NINGÚN TIPO DE DESCUENTO</string>
+
+    <string name="tituloAdidas">ADIDAS</string>
+    <string name="DescripcionAdidasModelo">ZAPATILLAS ZX 2K BOOST</string>
+    <string name="DescripcionAdidasColores">CLOUD WHITE / GREY TWO / CORE BLACK</string>
+    <string name="DescripcionAdidasPrecio">S/.479.90</string>
+
+    <string name="tituloConvers">CONVERS</string>
+    <string name="DescripcionConversModelo">CHUCK 70 PEACE HI</string>
+    <string name="DescripcionConversColores">CLOUD WHITE / GREY TWO / CORE BLACK</string>
+    <string name="DescripcionConversPrecio">S/.269.90</string>
+
+    <string name="tituloNike">NIKE</string>
+    <string name="DescripcionNikeModelo">NIKE AIR ZOOM PEGASUS 37</string>
+    <string name="DescripcionNikeColores">CLOUD WHITE / GREY TWO / CORE BLACK</string>
+    <string name="DescripcionNikePrecio">$130.00</string>
+
+    <string name="tituloPuma">PUMA</string>
+    <string name="DescripcionPumaModelo">RS-FAST KNEAKERS</string>
+    <string name="DescripcionPumaColores">CLOUD WHITE / GREY TWO / CORE BLACK</string>
+    <string name="DescripcionPumaPrecio">$110.00</string>
+
+    <string name="tituloReebok">REEBOK</string>
+    <string name="DescripcionReebokModelo">FLASHFILM TRAIN 2.0</string>
+    <string name="DescripcionReebokColores">CLOUD WHITE / GREY TWO / CORE BLACK</string>
+    <string name="DescripcionReebokPrecio">S/.249.90</string>
+
+    <string name="tituloSkechers">SKECHERS</string>
+    <string name="DescripcionSkechersModelo">SKECH-AIR EXTREME</string>
+    <string name="DescripcionSkechersColores">CLOUD WHITE / GREY TWO / CORE BLACKT</string>
+    <string name="DescripcionSkechersPrecio">S/.169.90</string>
+
+    <string name="tituloSpeedo">SPEEDO</string>
+    <string name="DescripcionSpeedoModelo">MENS SURFWALKER PRO MESH</string>
+    <string name="DescripcionSpeedoColores">CLOUD WHITE / GREY TWO / CORE BLACK</string>
+    <string name="DescripcionSpeedoPrecio">$38.00</string>
+
+    <string name="buttonAñadirCarrito">Añadir al Carrito</string>
+    <string name="buttonFavorito">Favoritos</string>
+    <string name="buttonNavegar">Ir a Web</string>
+    <string name="buttonAnterior">Anterior</string>
+    <string name="buttonCerrar">Cerrar</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoBaseDatos</string>
+    <string name="txt_nombre">Nombre del Contacto</string>
+    <string name="txt_datos">Datos del Contacto</string>
+    <string name="bt_buscarContacto">Buscar Contacto</string>
+    <string name="bt_guardarContacto">Guardar Contacto</string>
+    <string name="bt_buscarArchivo">Buscar Archivo</string>
+    <string name="bt_guardarArchivo">Guardar Archivo</string>
+</resources>

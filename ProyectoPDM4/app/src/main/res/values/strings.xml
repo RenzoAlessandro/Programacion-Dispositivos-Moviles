@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="pregunta1">1. Cuanto es 2+6?</string>
+    <string name="res1">Ingrese su respuesta</string>
+
+
+    <string name="pregunta2">2. La resta de 100 - 5 es 95?</string>
+    <string name="res2">Verdadero</string>
+    <string name="res3">Falso</string>
+
+    <string name="pregunta3">3. La multiplicación es de 2 x 50 es..</string>
+    <string name="res4">100</string>
+    <string name="res5">105</string>
+    <string name="res6">52</string>
+
+    <string name="pregunta4">4. La suma de 6 y 4 es...</string>
+
+
+    <string name="Revisar_bt">Revisar</string>
+    <string name="txt_puntaje">Puntaje</string>
+
+
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="top"
+    android:layout_height="match_parent"
+    android:background="@drawable/background3"
+    tools:context=".MainActivity">
+
+    <ImageView
+        app:srcCompat="@mipmap/logoregistrate2"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"/>
+
+    <EditText
+        android:id="@+id/edittext_name"
+        android:layout_margin="10dp"
+        android:hint="@string/txt_IngreseNombre"
+        android:textColorHint="#15202E"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edittext_email"
+        android:layout_margin="10dp"
+        android:hint="@string/txt_IngreseEmail"
+        android:textColorHint="#15202E"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <Button
+        android:layout_weight="2"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:id="@+id/button_add"
+        android:hint="@string/bt_Agregar"
+        android:textColorHint="#FFFFFF"
+        android:background="#6CBEBF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:layout_weight="2"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:id="@+id/button_view"
+        android:hint="@string/bt_Ver"
+        android:textColorHint="#FFFFFF"
+        android:background="#15202E"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

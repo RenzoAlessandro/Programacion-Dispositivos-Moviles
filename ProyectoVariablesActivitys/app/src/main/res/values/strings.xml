@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectosValoresEntreActivitys</string>
+    <string name="txt1">Nombre</string>
+    <string name="txt2">Nombre</string>
+    <string name="button1">Enviar</string>
+    <string name="button2">Regresar</string>
+</resources>

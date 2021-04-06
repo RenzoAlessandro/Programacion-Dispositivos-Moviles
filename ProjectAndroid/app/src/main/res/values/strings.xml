@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="et1">Primer digito</string>
+    <string name="et2">Segundo digito</string>
+</resources>

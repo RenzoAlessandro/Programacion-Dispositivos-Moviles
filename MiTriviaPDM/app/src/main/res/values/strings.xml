@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mi Trivia</string>
+    <string name="Titulo">HOLA, ESTE ES MI TRIVIA</string>
+    <string name="Pregunta1">1. ¿En qué año descubrió Cristóbal Colón el "Nuevo Mundo"?</string>
+    <string name="Respuesta11">1492</string>
+    <string name="Respuesta12">2020</string>
+    <string name="Respuesta13">1996</string>
+    <string name="Pregunta2">2. ¿En qué ciudad se arrojó la segunda bomba atómica utilizada en tiempos de guerra?</string>
+    <string name="Respuesta21">New York</string>
+    <string name="Respuesta22">Nagasaki</string>
+    <string name="Respuesta23">Arequipa</string>
+    <string name="Pregunta3">3. ¿En qué año terminó la Segunda Guerra Mundial?</string>
+    <string name="Respuesta31">2000</string>
+    <string name="Respuesta32">1800</string>
+    <string name="Respuesta33">1945</string>
+    <string name="Pregunta4">4. ¿Quién fue el primer hombre en pisar la luna?</string>
+    <string name="Respuesta41">Michael Jackson</string>
+    <string name="Respuesta42">Eric Armstrong</string>
+    <string name="Respuesta43">Neil Armstrong</string>
+
+    <string name="RevisarButton">Revisar</string>
+    <string name="TextPuntaje">Tu puntaje</string>
+
+
+</resources>
